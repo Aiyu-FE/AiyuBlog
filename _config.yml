@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Aiyu的自习室
+subtitle: '先进封装和二次开发'
+description: '先进封装和二次开发'
+keywords: 先进封装,二次开发
+author: Aiyu
+language: zh-CN
+timezone: 'Asia-Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
