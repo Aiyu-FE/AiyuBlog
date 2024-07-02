@@ -9,7 +9,7 @@ description: '先进封装和二次开发'
 keywords: 先进封装,二次开发
 author: Aiyu
 language: zh-CN
-timezone: 'Asia-Shanghai'
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
