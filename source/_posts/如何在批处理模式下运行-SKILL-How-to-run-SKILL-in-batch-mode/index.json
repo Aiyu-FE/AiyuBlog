@@ -1,0 +1,18 @@
+{
+  "version": "2.0",
+  "clipId": "1717004650",
+  "format": "md",
+  "title": "如何在批处理模式下运行 SKILL --- How to run SKILL in batch mode",
+  "link": "https://support.cadence.com/apex/ArticleAttachmentPortal?id=a1O3w000009lXVoEAM&pageName=ArticleContent",
+  "category": "default",
+  "tags": [
+    "#SKILL"
+  ],
+  "created_at": "2024-05-30 01:44:10",
+  "mainPath": "../如何在批处理模式下运行-SKILL-How-to-run-SKILL-in-batch-mode.md",
+  "paths": [
+    "index.json",
+    "../assets/rtaImage.png",
+    "../如何在批处理模式下运行-SKILL-How-to-run-SKILL-in-batch-mode.md"
+  ]
+}
